@@ -1,1 +1,1 @@
-R
+https://github.com/Mehrdadghassabi/handwritten_digit_recognition_from_scratch/tree/main/fullyconnected_nn
